@@ -44,7 +44,3 @@ npx serve .
 ├── three.min.js    # Three.js Library (r128)
 └── README.md
 ```
-
-## Lizenz
-
-MIT
