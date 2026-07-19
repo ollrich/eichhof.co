@@ -17,9 +17,11 @@ Interaktive 3D-Partikel-Visualisierung eines Smileys, gebaut mit Three.js.
 - **Spezialeffekte** (zufällig bei Doppelklick):
   - **Explosion**: Partikel fliegen auseinander und kehren zurück
   - **Regenbogen-Farbwechsel**: Alle Partikel durchlaufen einen Regenbogen-Zyklus
-- **Sanfte Auto-Rotation** nach dem initialen Aufbau
+- **Rückkehr zur Frontansicht**: Nach dem Drehen gleitet der Smiley nach kurzer Ruhe sanft zurück, sodass das Gesicht immer sichtbar bleibt
+- **Bedienhinweis**: Dezente Einblendung („ziehen, zoomen, doppelklicken") kurz nach dem Aufbau
 - **Responsive**: Passt sich an alle Bildschirmgrößen an
 - **Touch-Support**: Vollständige Unterstützung für mobile Geräte
+- **Zugänglichkeit**: Respektiert `prefers-reduced-motion`, Fallback ohne WebGL
 
 ## Technologie
 
